@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "prnsamplr"]
 	path = prnsamplr
-	url = https://github.com/cran/prnsamplr
+	url = https://github.com/kirajcg/prnsamplr
